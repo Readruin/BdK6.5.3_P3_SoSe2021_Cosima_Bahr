@@ -8,8 +8,11 @@ Im persönlichen Gebrauch kann diese README.md davon gelesen werden.
 https://pypi.org/project/simple-categories/
  
 ## 3. Eine Fehlermeldung und Ihre Lösung
-print(doi_data["result"]["27708327"]["title"]) eine falsche ID eingefügt.
+print(doi_data["result"]["27708327"]["title"]) Eine falsche ID wurde eingefügt.
 Mit der passenden ID wird der Fehler behoben.
+
+print(doi_data["result"]["31452104"]["title"]) 
+Mit dieser ID wird der Fehler in diesem Fall behoben.
 
 ## 4. Was ist JupyterLab?
 Ihre Antwort
