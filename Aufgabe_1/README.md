@@ -15,9 +15,10 @@ print(doi_data["result"]["31452104"]["title"])
 Mit dieser ID wird der Fehler in diesem Fall behoben.
 
 ## 4. Was ist JupyterLab?
-Ihre Antwort
+JupyterLab ist eine neues Interface von Project Jupyter. Es besitzt eine
+flexible Benutzeroberfläche und kann verschiedene Dokumente zeitgleich öffnen,
+um diese zu bearbeiten.
 
 ## 5. Was ist der große Unterschied zwischen den Webframeworks flask und Django?
-Ihre Antwort
-
-
+Django ist komplexer als flask. Flask ist minimalistischer und ermöglicht
+mehr Flexibilität und Entscheidungsfreiheit.
