@@ -1,4 +1,4 @@
-# Aufgabe 1 in BDK6.5.3 (wB/öB) P3 Data Librarianship und Programmieru
+# Aufgabe 1 in BDK6.5.3 (wB/öB) P3 Data Librarianship und Programmierung
 ## 1. Text-Editor der Wahl
 PyCharm
 
