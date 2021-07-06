@@ -16,9 +16,11 @@ Mit dieser ID wird der Fehler in diesem Fall behoben.
 
 ## 4. Was ist JupyterLab?
 JupyterLab ist eine neues Interface von Project Jupyter. Es besitzt eine
-flexible Benutzeroberfläche und kann verschiedene Dokumente zeitgleich öffnen,
+flexible Benutzeroberfläche und kann diverse Tools zeitgleich ausführen,
+um diese nutzen zu können. Weiterhin werden verschiedene Dateiformate unterstüzt,
 um diese zu bearbeiten.
 
 ## 5. Was ist der große Unterschied zwischen den Webframeworks flask und Django?
 Django ist komplexer als flask. Flask ist minimalistischer und ermöglicht
-mehr Flexibilität und Entscheidungsfreiheit.
+mehr Flexibilität und Entscheidungsfreiheit, da bei Django die Anwendungsmöglichkeiten
+bereits vorgegeben sind.
