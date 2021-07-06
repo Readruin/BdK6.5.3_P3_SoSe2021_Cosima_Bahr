@@ -15,7 +15,7 @@ NameError                                 Traceback (most recent call last)
 ----> 1 print(id_data["result"][uids]["title"])
 
 ##### NameError: name 'uids' is not defined
---------------------
+---------
 Anstatt uids muss die ID 27708327 eingefügt werden.
  
 print(id_data["result"]["27708327"]["title"])
