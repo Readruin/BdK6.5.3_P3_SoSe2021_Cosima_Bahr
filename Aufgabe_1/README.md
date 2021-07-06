@@ -14,7 +14,7 @@ NameError                                 Traceback (most recent call last)
 <ipython-input-35-bb0e30b4cd1e> in <module>
 ----> 1 print(id_data["result"][uids]["title"])
 
-NameError: name 'uids' is not defined
+### NameError: name 'uids' is not defined
 --------------------
 Anstatt uids muss die ID 27708327 eingefügt werden.
  
