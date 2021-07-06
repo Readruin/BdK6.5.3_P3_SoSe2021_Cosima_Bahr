@@ -8,11 +8,16 @@ Im persönlichen Gebrauch kann diese README.md davon gelesen werden.
 https://pypi.org/project/simple-categories/
  
 ## 3. Eine Fehlermeldung und Ihre Lösung
-print(doi_data["result"]["27708327"]["title"]) Eine falsche ID wurde eingefügt.
-Mit der passenden ID wird der Fehler behoben.
+print(id_data["result"][uids]["title"])
 
-print(doi_data["result"]["31452104"]["title"]) 
-Mit dieser ID wird der Fehler in diesem Fall behoben.
+NameError                                 Traceback (most recent call last)
+<ipython-input-35-bb0e30b4cd1e> in <module>
+----> 1 print(id_data["result"][uids]["title"])
+
+NameError: name 'uids' is not defined
+
+Anstatt uids muss die ID 27708327 eingefügt werden.
+print(id_data["result"]["27708327"]["title"])
 
 ## 4. Was ist JupyterLab?
 JupyterLab ist eine neues Interface von Project Jupyter. Es besitzt eine
