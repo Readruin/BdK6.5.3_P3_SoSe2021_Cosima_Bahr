@@ -22,9 +22,9 @@ print(id_data["result"]["27708327"]["title"])
 
 ## 4. Was ist JupyterLab?
 JupyterLab ist eine neues Interface von Project Jupyter. Es besitzt eine
-flexible Benutzeroberfläche und kann diverse Tools zeitgleich ausführen,
-um diese nutzen zu können. Weiterhin werden verschiedene Dateiformate unterstüzt,
-um diese zu bearbeiten.
+flexible Benutzeroberfläche und kann diverse Tools zeitgleich ausführen.
+Weiterhin werden verschiedene Dateiformate unterstüzt, die genutzt werden
+können.
 
 ## 5. Was ist der große Unterschied zwischen den Webframeworks flask und Django?
 Django ist komplexer als flask. Flask ist minimalistischer und ermöglicht
