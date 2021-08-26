@@ -1,4 +1,9 @@
+
+Name: Cosima Bahr
+
 ## Aufgabe 2
 
-Es wurde sich für Option 1 - Datenanalyse entschieden.
-Hierbei wird ein Datenset der IMDb analysiert.
+In der folgenden Aufgabe wird Option 1 - Datenanalyse bearbeitet.
+
+In Folge dessen wird ein Datenset der Internet Movie Database (imdb) 
+anhand dreier Fragestellungen analysiert.
